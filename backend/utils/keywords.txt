@@ -1,0 +1,21 @@
+python
+flask
+django
+sql
+html
+css
+javascript
+react
+docker
+git
+aws
+azure
+nlp
+machine learning
+deep learning
+data analysis
+pandas
+numpy
+matplotlib
+linux
+api

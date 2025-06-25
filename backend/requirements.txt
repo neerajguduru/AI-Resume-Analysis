@@ -1,0 +1,7 @@
+flask
+flask-cors
+pdfminer.six
+python-dotenv
+google-generativeai
+pytesseract
+Pillow

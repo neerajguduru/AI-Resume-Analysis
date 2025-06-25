@@ -3,4 +3,5 @@ __pycache__/
 *.pyc
 *.pkl
 .env
+.env.example
 .ipynb_checkpoints/
